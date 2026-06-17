@@ -1,1 +1,28 @@
-
+{
+    "config": {
+        "url": "https://script.google.com/macros/s/AKfycbzXsX2KD4m5roT83DGfpF4j1037DZKOmi1ISERx4lADZMSa6zvmyKWDNsF4gxpCKjiqmw/exec",
+        "data": "0",
+        "searchRadius": 200,
+        "placeType": "school"
+    },
+    "options": {
+        "boardTypes": [
+            "CBSE",
+            "ICSE",
+            "Matriculation",
+            "IB",
+            "IGCSE",
+            "Other"
+        ],
+        "meetToOptions": [
+            "Principal",
+            "Admin",
+            "Vice Principal",
+            "School Secterary"
+        ],
+        "followModeOptions": [
+            "Online",
+            "Offline"
+        ]
+    }
+}
