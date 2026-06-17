@@ -17,7 +17,8 @@
             "Principal",
             "Admin",
             "Vice Principal",
-            "School Secterary"
+            "School Secterary",
+            "Staff"
         ],
         "followModeOptions": [
             "Online",
