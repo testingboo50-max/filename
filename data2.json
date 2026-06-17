@@ -2,15 +2,14 @@
     "config": {
         "url": "https://script.google.com/macros/s/AKfycbz-nHmD3s9aXhmAaA4vqT6BA2QJYKD9S3n9TunmAhs7D5HZSVO_gfDIN2177nu46Q8N/exec",
         "data": "0",
-        "searchRadius": 200,
+        "searchRadius": 2000,
         "placeType": "school"
     },
     "options": {
         "boardTypes": [
-            "CBSE",
+            "CBSE111",
             "ICSE",
             "Matriculation",
-            "IB",
             "IGCSE",
             "Other"
         ],
