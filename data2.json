@@ -7,7 +7,7 @@
     },
     "options": {
         "boardTypes": [
-            "CBSE111",
+            "CBSE",
             "ICSE",
             "Matriculation",
             "IGCSE",
